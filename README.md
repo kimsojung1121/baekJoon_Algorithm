@@ -9,3 +9,4 @@
 - [10718 / We love kriii](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/10718.md)
 - [10171 / 고양이](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/10171.md)
 - [10172 / 개](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/10172.md)
+- [1000 / A+B](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/1000.md)
