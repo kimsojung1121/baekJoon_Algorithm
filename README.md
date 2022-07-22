@@ -14,3 +14,10 @@
 - [10998 / AXB](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/10998.md)
 - [1008 / A/B](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/1008.md)
 - [10869 / 사칙연산](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/10869.md)
+- [10926 / ??!](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/10926.md)
+- [18108 / 	1998년생인 내가 태국에서는 2541년생?!](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/18108.md)
+- [10430 / 나머지](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/10430.md)
+- [2588 / 곱셈](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/2588.md)
+- [25083 / 새싹](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/25083.md)
+
+2. 조건문
