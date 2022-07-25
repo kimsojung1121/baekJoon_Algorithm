@@ -22,3 +22,5 @@
 
 2. 조건문
 - [1330 / 두 수 비교하기](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/1330.md)
+- [9498 / 시험 성적](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/9498.md)
+- [2753 / 윤년](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/2753.md)
