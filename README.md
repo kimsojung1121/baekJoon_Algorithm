@@ -25,3 +25,5 @@
 - [9498 / 시험 성적](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/9498.md)
 - [2753 / 윤년](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/2753.md)
 - [14681 / 사분면 고르기](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/14681.md)
+- [2884 / 알람 시계](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/2884.md)
+- [2525 / 오븐 시계](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/2525.md)
