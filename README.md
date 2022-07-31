@@ -28,3 +28,6 @@
 - [2884 / 알람 시계](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/2884.md)
 - [2525 / 오븐 시계](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/2525.md)
 - [2480 / 주사위 세개](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/2480.md)
+
+3. 반복문
+- [2739 / 구구단](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/2739.md)
