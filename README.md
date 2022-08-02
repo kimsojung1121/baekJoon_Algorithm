@@ -31,3 +31,4 @@
 
 3. 반복문
 - [2739 / 구구단](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/2739.md)
+- [10950 / A+B - 3](https://github.com/kimsojung1121/baekJoon_Algorithm/blob/main/10950.md)
